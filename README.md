@@ -12,7 +12,7 @@ A clean and responsive web page designed as part of the Web Development Internsh
 * **CSS3**
 
 ## 📂 Project Structure
-* `task.html` - Main HTML file containing the content structure.
+* `task1.html` - Main HTML file containing the content structure.
 * `task1.css` - Custom CSS stylesheet for styling.
 
 ## 👤 Author
